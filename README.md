@@ -6,7 +6,7 @@ An ML-based system to evaluate the quality and relevancy of Google location revi
 ## 🚀 Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/Lin-Shuang-Shuang/3230-friends-tiktok-techjam.git
+git clone https://github.com/YOUR_USERNAME/3230-friends-tiktok-techjam.git
 cd 3230-friends-tiktok-techjam
 
 # Install dependencies
