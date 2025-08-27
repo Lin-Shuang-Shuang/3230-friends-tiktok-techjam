@@ -25,3 +25,8 @@ python -c "import nltk; nltk.download('vader_lexicon'); nltk.download('stopwords
 5. Run this: `
 python3 scripts/data_collection/kaggle_data.py
 `
+
+## Download USCD dataset
+1. Run this: `
+python3 scripts/data_collection/ucsd_data.py
+`
