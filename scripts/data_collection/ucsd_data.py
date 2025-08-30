@@ -15,8 +15,7 @@ def download_file(url, dest_path):
 def main():
     DEST_DIR.mkdir(parents=True, exist_ok=True)
     files = [
-        "review-Alabama_10.json.gz",
-        "review-Washington_10.json.gz"
+        "review-Alabama_10.json.gz"
     ]
     for filename in files:
         file_url = UCSD_URL + filename

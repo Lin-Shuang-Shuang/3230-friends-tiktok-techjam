@@ -113,8 +113,7 @@ def main():
     download_path = download_kaggle_dataset()
     
     if download_path:
-         df = load_kaggle_reviews(download_path)
-        
+        df = load_kaggle_reviews(download_path)
         if df is not None:
             print("\nKaggle data collection completed successfully!")
             return df
