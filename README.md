@@ -110,25 +110,15 @@ Train the CNN-based classification model:
 
 ```
 3230-friends-tiktok-techjam/
-├── data/                          # Data storage
-│   ├── raw/                       # Raw datasets
-│   │   ├── kaggle/               # Kaggle restaurant reviews
-│   │   └── ucsd/                 # UCSD Google reviews
-│   ├── processed/                # Processed datasets
-│   └── external/                 # External data sources
 ├── notebooks/                     # Jupyter notebooks
 │   ├── Data_labelling.ipynb      # Automated data labeling
 │   └── Training_model.ipynb      # Model training pipeline
 ├── scripts/                       # Utility scripts
 │   └── data_collection/          # Data download scripts
-├── src/                          # Source code
-│   ├── data/                     # Data processing modules
-│   ├── models/                   # Model definitions
-│   ├── evaluation/               # Evaluation metrics
-│   └── utils/                    # Utility functions
-├── models/                       # Trained model storage
-├── results/                      # Results and outputs
-└── docs/                         # Documentation
+├── README.md/                    # Documentation│
+└── requirements.txt/                 
+
+
 ```
 
 
